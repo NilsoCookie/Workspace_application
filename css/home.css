@@ -8,3 +8,10 @@
   font-weight: 600;
   transform: scale(1.1);
 }
+.apps {
+  background-color: #f1f1f1;
+  border: #666 2px solid;
+}
+.apps a {
+  text-decoration: none;
+}
